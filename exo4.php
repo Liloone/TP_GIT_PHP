@@ -9,6 +9,10 @@
 <body>
      <?php
 
+for ($a = 1; $a < 30; $a++) {
+    echo $a . ' ';
+}
+
 
 ?>
 </body>
